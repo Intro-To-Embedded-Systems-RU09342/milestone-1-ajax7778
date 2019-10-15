@@ -1,3 +1,8 @@
+/* Milestone 1 Stranger Things Light Wall
+written by: Alexandra Jackson and Jacob Matteo
+October 15, 2019
+*/
+
 #include <msp430.h> 
 
 volatile unsigned char total; //compares count to the number of bytes sent to the board
